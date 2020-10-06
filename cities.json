@@ -15,5 +15,10 @@
     "name": "Philadelphia",
     "population": 1526006,
     "landmark": "Independence Hall"
+  },
+  {
+    "name": "Bozeman",
+    "population": 48532,
+    "landmark": "Siebel Dinosaur Complex"
   }
 ]
